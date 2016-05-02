@@ -1,0 +1,16 @@
+{
+  "name": "projectzyra",
+  "version": "1.0.0",
+  "description": "An application to allow users to report pot-holes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ebb",
+  "license": "ISC",
+  "dependencies": {
+    "7": "0.0.1",
+    "framework": "0.0.0",
+    "framework7": "^1.4.2"
+  }
+}
